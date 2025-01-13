@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Joe Waters
 <!--
 **joeWatersDev/joeWatersDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Computer science and programming Teacher for 6 years. Building curriculum for the next generation of developers and CS researchers. Exploring the world of data and expanding my skillset.
+
+### 🖊️ What I'm Learning:
+[DataTalks Data Engineering Course](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+### 📚 What I'm Reading: 
+[OurWorldInData](https://ourworldindata.org/), [WorksInProgress](https://worksinprogress.co/), [AstralCodexTen](https://www.astralcodexten.com/)
+### 🎙️ What I'm Listening To: 
+[TheStudiesShow](https://www.thestudiesshowpod.com/), [AnalyticsPowerHour](https://analyticshour.io/)
