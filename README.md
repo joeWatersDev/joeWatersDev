@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 Computer science and programming teacher. Building curriculum for the next generation of developers and CS researchers. Exploring the world of data and growing my skillset.
 
-### 🖊️ What I'm Learning:
+### 🧠 What I'm Learning:
 [DataTalks Data Engineering Course](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 ### 📚 What I'm Reading: 
 [OurWorldInData](https://ourworldindata.org/) | [WorksInProgress](https://worksinprogress.co/) | [AstralCodexTen](https://www.astralcodexten.com/)
