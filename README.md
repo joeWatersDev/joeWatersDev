@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer science and programming Teacher for 6 years. Building curriculum for the next generation of developers and CS researchers. Exploring the world of data and expanding my skillset.
+Computer science and programming teacher. Building curriculum for the next generation of developers and CS researchers. Exploring the world of data and growing my skillset.
 
 ### 🖊️ What I'm Learning:
 [DataTalks Data Engineering Course](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 ### 📚 What I'm Reading: 
-[OurWorldInData](https://ourworldindata.org/), [WorksInProgress](https://worksinprogress.co/), [AstralCodexTen](https://www.astralcodexten.com/)
+[OurWorldInData](https://ourworldindata.org/) | [WorksInProgress](https://worksinprogress.co/) | [AstralCodexTen](https://www.astralcodexten.com/)
 ### 🎙️ What I'm Listening To: 
-[TheStudiesShow](https://www.thestudiesshowpod.com/), [AnalyticsPowerHour](https://analyticshour.io/)
+[TheStudiesShow](https://www.thestudiesshowpod.com/) | [AnalyticsPowerHour](https://analyticshour.io/)
