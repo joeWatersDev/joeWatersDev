@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 Computer science and programming teacher. Building curriculum for the next generation of developers and CS researchers. Exploring the world of data and continually growing.
 
 ### 📚 What I'm Reading: 
-[OurWorldInData](https://ourworldindata.org/) | [WorksInProgress](https://worksinprogress.co/) | [AstralCodexTen](https://www.astralcodexten.com/)
+[OurWorldInData](https://ourworldindata.org/) | [WorksInProgress](https://worksinprogress.co/)
 ### 🎙️ What I'm Listening To: 
-[TheStudiesShow](https://www.thestudiesshowpod.com/) | [AnalyticsPowerHour](https://analyticshour.io/)
+[ScienceFictions](https://sciencefictionspod.substack.com/) | [Lenny's Podcast](https://www.lennysnewsletter.com/podcast)
