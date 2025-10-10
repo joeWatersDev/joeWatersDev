@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Computer science and programming teacher. Building curriculum for the next generation of developers and CS researchers. Exploring the world of data and continually growing.
+Computer science and programming teacher. Building curriculum for the next generation of developers and CS researchers. Exploring the world of data and continually learning.
 
 ### 📚 What I'm Reading: 
 [OurWorldInData](https://ourworldindata.org/) | [WorksInProgress](https://worksinprogress.co/)
