@@ -17,5 +17,3 @@ Computer science and programming teacher. Building curriculum for the next gener
 
 ### 📚 What I'm Reading: 
 [OurWorldInData](https://ourworldindata.org/) | [WorksInProgress](https://worksinprogress.co/)
-### 🎙️ What I'm Listening To: 
-[ScienceFictions](https://sciencefictionspod.substack.com/) | [Lenny's Podcast](https://www.lennysnewsletter.com/podcast)
